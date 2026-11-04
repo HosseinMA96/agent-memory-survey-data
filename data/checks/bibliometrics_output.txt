@@ -1,0 +1,20 @@
+unique=1779 memory-titled=951 agent-corpus=840 by year={'2023': 10, '2024': 24, '2025': 116, '2026': 690}
+
+Table II (title rules): theme | 2025 % [95% CI] | 2026 % [95% CI]
+Benchmarks, evaluation                 | 6.9 [3.5, 13.0] (k=8) | 11.2 [9.0, 13.7] (k=77) | Fisher p=0.1929
+Graph or structured memory             | 7.8 [4.1, 14.1] (k=9) | 12.3 [10.1, 15.0] (k=85) | Fisher p=0.2096
+Retrieval, RAG                         | 2.6 [0.9, 7.3] (k=3) | 9.1 [7.2, 11.5] (k=63) | Fisher p=0.0160
+Security, privacy                      | 4.3 [1.9, 9.7] (k=5) | 7.0 [5.3, 9.1] (k=48) | Fisher p=0.4163
+Forgetting, updating, consolidation    | 3.4 [1.3, 8.5] (k=4) | 5.4 [3.9, 7.3] (k=37) | Fisher p=0.4970
+Multi-agent or shared memory           | 12.9 [8.0, 20.2] (k=15) | 5.7 [4.2, 7.6] (k=39) | Fisher p=0.0077
+Personalization                        | 7.8 [4.1, 14.1] (k=9) | 4.3 [3.1, 6.1] (k=30) | Fisher p=0.1552
+Learned control (RL, policy)           | 3.4 [1.3, 8.5] (k=4) | 2.3 [1.4, 3.7] (k=16) | Fisher p=0.5134
+Long context, compression              | 1.7 [0.5, 6.1] (k=2) | 1.9 [1.1, 3.2] (k=13) | Fisher p=1.0000
+Parametric memory, editing             | 0.9 [0.2, 4.7] (k=1) | 1.0 [0.5, 2.1] (k=7) | Fisher p=1.0000
+Holm-adjusted p: {'Multi-agent or shared memory': 0.0773, 'Retrieval, RAG': 0.144, 'Personalization': 1.0, 'Benchmarks, evaluation': 1.0, 'Graph or structured memory': 1.0, 'Security, privacy': 1.0, 'Forgetting, updating, consolidation': 1.0, 'Learned control (RL, policy)': 1.0, 'Long context, compression': 1.0, 'Parametric memory, editing': 1.0}
+
+Control-locus indicators (abstract rules): locus | 2024 | 2025 | 2026
+Learned (RL-trained memory policy)     | 8.3 [2.3, 25.8] (k=2) | 12.1 [7.3, 19.2] (k=14) | 9.4 [7.5, 11.8] (k=65)
+Model-directed (tool/function calls)   | 0.0 [0.0, 13.8] (k=0) | 0.0 [0.0, 3.2] (k=0) | 3.5 [2.3, 5.1] (k=24)
+Architectural (test-time memory)       | 0.0 [0.0, 13.8] (k=0) | 3.4 [1.3, 8.5] (k=4) | 2.6 [1.7, 4.1] (k=18)
+wrote 50 of 840 corpus records to corpus_precision_sample.csv (seed 20261104)

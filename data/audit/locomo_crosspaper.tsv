@@ -1,0 +1,10 @@
+# Overall LoCoMo scores as reported in each paper's main table (Table VII of the survey)
+source	backbone	metric	full_context	Mem0	A-Mem	MemoryOS	Zep	LangMem	own_system	own_score	location
+Mem0 2504.19413	GPT-4o-mini	J (mean of 10 runs)	72.90	66.88	48.38	-	65.99	58.10	Mem0g	68.44	Table 2
+LightMem 2510.18866	GPT-4o-mini	ACC (LLM judge)	71.83	61.69	64.16	58.25	-	57.20	LightMem(0.8,768)	72.99	Table 3
+LightMem 2510.18866	Qwen3-30B-A3B	ACC (LLM judge)	74.87	43.31	56.10	61.04	-	60.53	LightMem(0.8,1024)	72.60	Table 3
+Memory-R1 2508.19828	LLaMA-3.1-8B	J overall	-	45.68	44.76	48.20	-	-	Memory-R1-GRPO	62.74	Table 1
+Memory-R1 2508.19828	Qwen-2.5-7B	J overall	-	53.30	40.78	51.26	-	-	Memory-R1-GRPO	61.51	Table 1
+Memory-R1 2508.19828	Qwen-2.5-7B	F1 overall	-	30.61	26.08	34.64	-	-	Memory-R1-GRPO	43.14	Table 1
+O-Mem 2511.13593	GPT-4o-mini	F1 average	-	11.62	22.24	34.00	26.88	39.18	O-Mem	50.60	Table 2 (A-Mem, MemoryOS rows identical to MemoryOS paper)
+O-Mem 2511.13593	GPT-4.1	F1 average	-	25.40	33.78	38.58	-	48.72	O-Mem	51.67	Table 2

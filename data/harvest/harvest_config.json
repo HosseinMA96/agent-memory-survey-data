@@ -1,0 +1,8 @@
+{"window": ["20230101","20261031"],
+ "queries": {
+  "Q1": "abs:\"agent memory\" OR abs:\"agentic memory\" OR abs:\"memory-augmented agent\"",
+  "Q2": "abs:\"long-term memory\" AND (abs:\"language model\" OR abs:LLM)",
+  "Q3": "abs:\"memory\" AND abs:\"LLM agent\"",
+  "Q4": "abs:\"episodic memory\" AND (abs:\"language model\" OR abs:LLM)",
+  "Q5": "abs:\"memory management\" AND (abs:\"language model\" OR abs:LLM)"},
+ "title_regex": "\\b(memory|memories|remember|recall|forget\\w*|episodic|retention)\\b"}

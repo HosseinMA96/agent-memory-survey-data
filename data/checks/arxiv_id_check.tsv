@@ -1,0 +1,234 @@
+ai2025memorybench	2510.17281	OK	MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems	Ai, Qingyao
+alwayson2026survey	2606.30306	OK	Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents	Ding, Tianyu
+anokhin2024arigraph	2407.04363	OK	AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents	Anokhin, Petr
+asai2024selfrag	2310.11511	OK	Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection	Asai, Akari
+bai2024longbench	2308.14508	OK	LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding	Bai, Yushi
+behaviormem2026	2610.34790	OK	BehaviorMem: Building and Evaluating User Memory from Real-World E-Commerce Behavior Streams	Wang, Sizhe
+behrouz2025titans	2501.00663	OK	Titans: Learning to Memorize at Test Time	Behrouz, Ali
+bei2026memgallery	2601.03515	OK	Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents	Bei, Yuanchen
+bo2025agentic	2511.21678	OK	Agentic Learner with Grow-and-Refine Multimodal Semantic Memory	Bo, Weihao
+borgeaud2022retro	2112.04426	OK	Improving language models by retrieving from trillions of tokens	Borgeaud, Sebastian
+bourtoule2019machine	1912.03817	OK	Machine Unlearning	Bourtoule, Lucas
+bulatov2022rmt	2207.06881	OK	Recurrent Memory Transformer	Bulatov, Aydar
+cai2025flex	2511.06449	OK	FLEX: Continuous Agent Evolution via Forward Learning from Experience	Cai, Zhicheng
+cao2025memory	2508.09874	OK	Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models	Cao, Jiaqi
+chao2026stale	2605.06527	OK	STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?	Chao, Hanxiang
+chen2023memwalker	2310.05029	OK	Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading	Chen, Howard
+chen2024agentpoison	2407.12784	OK	AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases	Chen, Zhaorun
+chen2024compress	2402.11975	OK	Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations	Chen, Nuo
+chen2025halumem	2511.03506	OK	HaluMem: Evaluating Hallucinations in Memory Systems of Agents	Chen, Ding
+chen2025iterresearch	2511.07327	OK	IterResearch: Rethinking Long-Horizon Agents with Interaction Scaling	Chen, Guoxin
+chen2025sweexp	2507.23361	OK	SWE-Exp: Experience-Driven Software Issue Resolution	Chen, Silin
+chen2026taggraph	2609.38353	OK	TAGGRAPH: Tag-Augmented Graphs for Graph Retrieval of Agent Persistent Histories	Chen, Yu-Shu
+cherepanov2025mikasa	2502.10550	OK	Memory, Benchmark & Robots: A Benchmark for Solving Complex Tasks with Reinforcement Learning	Cherepanov, Egor
+chevalier2023autocompressors	2305.14788	OK	Adapting Language Models to Compress Contexts	Chevalier, Alexis
+chhikara2025mem0	2504.19413	OK	Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory	Chhikara, Prateek
+codemem2026	2601.02868	OK	CodeMEM: AST-Guided Adaptive Memory for Repository-Level Iterative Code Generation	Wang, Peiding
+crossuser2026	2609.32511	OK	Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents	Hu, Jinming
+dai2019transformerxl	1901.02860	OK	Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context	Dai, Zihang
+das2024larimar	2403.11901	OK	Larimar: Large Language Models with Episodic Memory Control	Das, Payel
+deshpande2025memtrack	2510.01353	OK	MEMTRACK: Evaluating Long-Term Memory and State Tracking in Multi-Platform Dynamic Agent Environments	Deshpande, Darshan
+dong2025minja	2503.03704	OK	Memory Injection Attacks on LLM Agents via Query-Only Interaction	Dong, Shen
+du2024perltqa	2402.16288	OK	PerLTQA: A Personal Long-Term Memory Dataset for Memory Classification, Retrieval, and Synthesis in Question Answering	Du, Yiming
+du2025memguide	2505.20231	OK	MemGuide: Intent-Driven Memory Selection for Goal-Oriented Multi-Session LLM Agents	Du, Yiming
+du2025rethinking	2505.00675	OK	Rethinking Memory in LLM based Agents: Representations, Operations, and Emerging Topics	Du, Yiming
+du2026autonomous	2603.07670	OK	Memory for Autonomous LLM Agents:Mechanisms, Evaluation, and Emerging Frontiers	Du, Pengfei
+edge2024graphrag	2404.16130	OK	From Local to Global: A Graph RAG Approach to Query-Focused Summarization	Edge, Darren
+fang2025lightmem	2510.18866	OK	LightMem: Lightweight and Efficient Memory-Augmented Generation	Fang, Jizhan
+fang2025memp	2512.10696	OK	Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution	Cao, Zouying
+fang2025memp2	2508.06433	OK	Memp: Exploring Agent Procedural Memory	Fang, Runnan
+fountas2024emllm	2407.09450	OK	Human-inspired Episodic Memory for Infinite Context LLMs	Fountas, Zafeirios
+gao2025chainofmemory	2506.18158	OK	Chain-of-Memory: Enhancing GUI Agents for Cross-Application Navigation	Gao, Xinzge
+ge2024icae	2307.06945	OK	In-context Autoencoder for Context Compression in a Large Language Model	Ge, Tao
+gou2026long	2610.21165	OK	From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models	Gou, Chaogui
+graves2014ntm	1410.5401	OK	Neural Turing Machines	Graves, Alex
+gutierrez2024hipporag	2405.14831	OK	HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models	Gutiérrez, Bernal Jiménez
+gutierrez2025hipporag2	2502.14802	OK	From RAG to Memory: Non-Parametric Continual Learning for Large Language Models	Gutiérrez, Bernal Jiménez
+guu2020realm	2002.08909	OK	REALM: Retrieval-Augmented Language Model Pre-Training	Guu, Kelvin
+han2025legomem	2510.04851	OK	LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation	Han, Dongge
+hartvigsen2023grace	2211.11031	OK	Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors	Hartvigsen, Thomas
+he2024humaninspired	2411.00489	OK	Human-inspired Perspectives: A Survey on AI Long-term Memory	He, Zihong
+he2024madialbench	2409.15240	OK	MADial-Bench: Towards Real-world Evaluation of Memory-Augmented Dialogue Generation	He, Junqing
+he2026memoryarena	2602.16313	OK	MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks	He, Zexue
+hong2024metagpt	2308.00352	OK	MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework	Hong, Sirui
+hou2024my	2404.00573	OK	"My agent understands me better": Integrating Dynamic Human-like Memory Recall and Consolidation in LLM-Based Agents	Hou, Yuki
+hsieh2024ruler	2404.06654	OK	RULER: What's the Real Context Size of Your Long-Context Language Models?	Hsieh, Cheng-Ping
+hu2023chatdb	2306.03901	OK	ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory	Hu, Chenxu
+hu20253dllmmem	2505.22657	OK	3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model	Hu, Wenbo
+hu2025memoryage	2512.13564	OK	Memory in the Age of AI Agents	Hu, Yuyang
+hu2025memoryagentbench	2507.05257	OK	Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions	Hu, Yuanzhe
+huang2023memory	2308.01542	OK	Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents	Huang, Ziheng
+huang2025licomemory	2511.01448	OK	LiCoMemory: Lightweight and Cognitive Agentic Memory for Efficient Long-Term Reasoning	Huang, Zhengjun
+huang2026secondhalf	2602.06052	OK	A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents	Huang, Wei-Chieh
+izacard2023atlas	2208.03299	OK	Atlas: Few-shot Learning with Retrieval Augmented Language Models	Izacard, Gautier
+jia2026ai	2601.09113	OK	The AI Hippocampus: How Far are We From Human Memory?	Jia, Zixia
+jiang2023llmlingua	2310.05736	OK	LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models	Jiang, Huiqiang
+jiang2025adaptation	2512.16301	OK	Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills	Jiang, Pengcheng
+jiang2025know	2504.14225	OK	Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and Personalized Responses at Scale	Jiang, Bowen
+jiang2025personamemv2	2512.06688	OK	PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory	Jiang, Bowen
+jiang2026anatomy	2602.19320	OK	Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations	Jiang, Dongming
+jiang2026magma	2601.03236	OK	MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents	Jiang, Dongming
+jiang2026memriskbench	2609.14976	OK	MemRiskBench: Trace-Aware Risk-Preserving Evaluation for Long-Horizon LLM Agents	Jiang, Jianhua
+jiayang2026amemgym	2603.01966	OK	AMemGym: Interactive Memory Benchmarking for Assistants in Long-Horizon Conversations	Jiayang, Cheng
+kang2025acon	2510.00615	OK	ACON: Optimizing Context Compression for Long-horizon LLM Agents	Kang, Minki
+kang2025memoryos	2506.06326	OK	Memory OS of AI Agent	Kang, Jiazheng
+khandelwal2020knnlm	1911.00172	OK	Generalization through Memorization: Nearest Neighbor Language Models	Khandelwal, Urvashi
+kim2024dialsim	2406.13144	OK	DialSim: A Dialogue Simulator for Evaluating Long-Term Multi-Party Dialogue Understanding of Conversational Agents	Kim, Jiho
+kuratov2024babilong	2406.10149	OK	BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack	Kuratov, Yuri
+kwon2023vllm	2309.06180	OK	Efficient Memory Management for Large Language Model Serving with PagedAttention	Kwon, Woosuk
+lampinen2025latent	2509.16189	OK	Latent learning: episodic memory complements parametric learning by enabling flexible reuse of experiences	Lampinen, Andrew Kyle
+latimer2025hindsight	2512.12818	OK	Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects	Latimer, Chris
+lee2024readagent	2402.09727	OK	A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts	Lee, Kuang-Huei
+letthemsleep2026	2610.25561	OK	Let Them Sleep: Recursive Self-Pruning Memory for Long-Horizon LLM Agents	Chauhan, Kargi
+lewis2020rag	2005.11401	OK	Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks	Lewis, Patrick
+li2024ldagent	2406.05925	OK	Hello Again! LLM-powered Personalized Agent for Long-term Dialogue	Li, Hao
+li2024optimus1	2408.03615	OK	Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks	Li, Zaijing
+li2024personal	2401.05459	OK	Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security	Li, Yuanchun
+li2025cam	2510.05520	OK	CAM: A Constructivist View of Agentic Memory for LLM-Based Reading Comprehension	Li, Rui
+li2025memos	2507.03724	OK	MemOS: A Memory OS for AI System	Li, Zhiyu
+li2025memos2	2505.22101	OK	MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models	Li, Zhiyu
+liang2025ai	2512.23343	OK	AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents	Liang, Jiafeng
+liu2023tim	2311.08719	OK	Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory	Liu, Lei
+liu2024lost	2307.03172	OK	Lost in the Middle: How Language Models Use Long Contexts	Liu, Nelson F.
+liu2025memverse	2512.03627	OK	MemVerse: Multimodal Memory for Lifelong Learning Agents	Liu, Junming
+liu2025rcrrouter	2508.04903	OK	RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory	Liu, Jun
+liu2025sedm	2509.09498	OK	SEDM: Selective Self-Evolving Distributed Memory for Agents	Liu, Yichen
+liu2025webcoach	2511.12997	OK	WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance	Liu, Genglin
+liu2026simplemem	2601.02553	OK	SimpleMem: Efficient Lifelong Memory for LLM Agents	Liu, Jiaqi
+long2025seeing	2508.09736	OK	Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory	Long, Lin
+lu2023memochat	2308.08239	OK	MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation	Lu, Junru
+lu2025scaling	2510.06727	OK	Scaling LLM Multi-turn RL with End-to-end Summarization-based Context Management	Lu, Miao
+lumer2025memtool	2507.21428	OK	MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations	Lumer, Elias
+luo2026storage	2605.06716	OK	From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms	Luo, Jinghao
+ma2025deserves	2508.03341	OK	What Deserves Memory: Adaptive Memory Distillation for LLM Agents	Ma, Wenquan
+madaan2023selfrefine	2303.17651	OK	Self-Refine: Iterative Refinement with Self-Feedback	Madaan, Aman
+maharana2024locomo	2402.17753	OK	Evaluating Very Long-Term Conversational Memory of LLM Agents	Maharana, Adyasha
+maini2024tofu	2401.06121	OK	TOFU: A Task of Fictitious Unlearning for LLMs	Maini, Pratyush
+majumder2023clin	2310.10134	OK	CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization	Majumder, Bodhisattwa Prasad
+memora2026	2604.20006	OK	From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents	Uddin, Md Nayem
+memsec2026survey	2604.16548	OK	A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle	Lin, Zehao
+meng2022rome	2202.05262	OK	Locating and Editing Factual Associations in GPT	Meng, Kevin
+meng2023memit	2210.07229	OK	Mass-Editing Memory in a Transformer	Meng, Kevin
+mitchell2022mend	2110.11309	OK	Fast Model Editing at Scale	Mitchell, Eric
+modarressi2023retllm	2305.14322	OK	RET-LLM: Towards a General Read-Write Memory for Large Language Models	Modarressi, Ali
+modarressi2024memllm	2404.11672	OK	MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory	Modarressi, Ali
+mu2023gist	2304.08467	OK	Learning to Compress Prompts with Gist Tokens	Mu, Jesse
+mu2025experepair	2506.10484	OK	EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair	Mu, Fangwen
+munkhdalai2024infini	2404.07143	OK	Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention	Munkhdalai, Tsendsuren
+ong2024lifelong	2406.10996	OK	Towards Lifelong Dialogue Agents via Timeline-based Memory Management	Ong, Kai Tzu-iunn
+ouyang2025reasoningbank	2509.25140	OK	ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory	Ouyang, Siru
+packer2023memgpt	2310.08560	OK	MemGPT: Towards LLMs as Operating Systems	Packer, Charles
+pan2025secom	2502.05589	OK	On Memory Construction and Retrieval for Personalized Conversational Agents	Pan, Zhuoshi
+park2023generative	2304.03442	OK	Generative Agents: Interactive Simulacra of Human Behavior	Park, Joon Sung
+patlan2025contextmanip	2506.17318	OK	Context manipulation attacks : Web agents are susceptible to corrupted memory	Patlan, Atharv Singh
+pink2025episodic	2502.06975	OK	Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents	Pink, Mathis
+pouransari2025pretraining	2510.02375	OK	Pretraining with hierarchical memories: separating long-tail and common knowledge	Pouransari, Hadi
+pulipaka2026persistbench	2602.01146	OK	PersistBench: When Should Long-Term Memories Be Forgotten by LLMs?	Pulipaka, Sidharth
+qian2024memorag	2409.05591	OK	MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation	Qian, Hongjin
+rae2020compressive	1911.05507	OK	Compressive Transformers for Long-Range Sequence Modelling	Rae, Jack W.
+rasmussen2025zep	2501.13956	OK	Zep: A Temporal Knowledge Graph Architecture for Agent Memory	Rasmussen, Preston
+rezazadeh2024memtree	2410.14052	OK	From Isolated Conversations to Hierarchical Schemas: Dynamic Tree Memory Representation for LLMs	Rezazadeh, Alireza
+rezazadeh2025collaborative	2505.18279	OK	Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control	Rezazadeh, Alireza
+salama2025meminsight	2503.21760	OK	MemInsight: Autonomous Memory Augmentation for LLM Agents	Salama, Rana
+salemi2024lamp	2304.11406	OK	LaMP: When Large Language Models Meet Personalization	Salemi, Alireza
+sarin2025memoria	2512.12686	OK	Memoria: A Scalable Agentic Memory Framework for Personalized Conversational AI	Sarin, Samarth
+sarthi2024raptor	2401.18059	OK	RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval	Sarthi, Parth
+shan2025cogmem	2504.02441	OK	Cognitive Memory in Large Language Models	Shan, Lianlei
+shi2025look	2509.23040	OK	Look Back to Reason Forward: Revisitable Memory for Long-Context LLM Agents	Shi, Yaorui
+shi2026mem2act	2601.19935	OK	Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents	Shen, Yiting
+shinn2023reflexion	2303.11366	OK	Reflexion: Language Agents with Verbal Reinforcement Learning	Shinn, Noah
+srivastava2025memorygraft	2512.16962	OK	MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval	Srivastava, Saksham Sahai
+sukhbaatar2015e2e	1503.08895	OK	End-To-End Memory Networks	Sukhbaatar, Sainbayar
+sumers2024coala	2309.02427	OK	Cognitive Architectures for Language Agents	Sumers, Theodore R.
+sun2025hiagent	2507.22925	OK	Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents	Sun, Haoran
+sun2025preferenceawar	2510.09720	OK	Preference-Aware Memory Update for Long-Term LLM Agents	Sun, Haoran
+sun2025scaling	2510.11967	OK	Scaling Long-Horizon LLM Agent via Context-Folding	Sun, Weiwei
+sunil2026mempoison	2601.05504	OK	Memory Poisoning Attack and Defense on Memory Based LLM-Agents	Sunil, Balachandra Devarangadi
+suzgun2025dynamic	2504.07952	OK	Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory	Suzgun, Mirac
+tack2024online	2403.04317	OK	Online Adaptation of Language Models with a Memory of Amortized Contexts	Tack, Jihoon
+tan2025membench	2506.21605	OK	MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents	Tan, Haoran
+tan2025memotime	2510.13614	OK	MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning	Tan, Xingyu
+tan2025rmm	2503.08026	OK	In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents	Tan, Zhen
+tang2025agent	2507.06229	OK	Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving	Tang, Xiangru
+tavakoli2025beam	2510.27246	OK	Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs	Tavakoli, Mohammad
+wang2023knowledge	2310.16218	OK	Knowledge Editing for Large Language Models: A Survey	Wang, Song
+wang2023longmem	2306.07174	OK	Augmenting Language Models with Long-Term Memory	Wang, Weizhi
+wang2023recursum	2308.15022	OK	Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models	Wang, Qingyue
+wang2023scm	2304.13343	OK	SCM: Enhancing Large Language Model with Self-Controlled Memory Framework	Wang, Bing
+wang2023voyager	2305.16291	OK	Voyager: An Open-Ended Embodied Agent with Large Language Models	Wang, Guanzhi
+wang2024agentsurvey	2308.11432	OK	A Survey on Large Language Model based Autonomous Agents	Wang, Lei
+wang2024awm	2409.07429	OK	Agent Workflow Memory	Wang, Zora Zhiruo
+wang2024jarvis1	2311.05997	OK	JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models	Wang, Zihao
+wang2024karma	2409.14908	OK	KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems	Wang, Zixuan
+wang2024memoryllm	2402.04624	OK	MEMORYLLM: Towards Self-Updatable Large Language Models	Wang, Yu
+wang2024wise	2405.14768	OK	WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models	Wang, Peng
+wang2025inducing	2504.06821	OK	Inducing Programmatic Skills for Agentic Tasks	Wang, Zora Zhiruo
+wang2025memalpha	2509.25911	OK	Mem-{\alpha}: Learning Memory Construction via Reinforcement Learning	Wang, Yu
+wang2025mextra	2502.13172	OK	Unveiling Privacy Risks in LLM Agent Memory	Wang, Bo
+wang2025mirix	2507.07957	OK	MIRIX: Multi-Agent Memory System for LLM-Based Agents	Wang, Yu
+wang2025mplus	2502.00592	OK	M+: Extending MemoryLLM with Scalable Long-Term Memory	Wang, Yu
+wang2025omem	2511.13593	OK	O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents	Wang, Piaohong
+wei2025amemguard	2510.02373	OK	A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory	Wei, Qianshan
+wei2025evomemory	2511.20857	OK	Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory	Wei, Tianxin
+wei2025mlp	2508.01832	OK	MLP Memory: A Retriever-Pretrained Memory for Large Language Models	Wei, Rubin
+weston2015memnet	1410.3916	OK	Memory Networks	Weston, Jason
+wu2022memorizing	2203.08913	OK	Memorizing Transformers	Wu, Yuhuai
+wu2024streambench	2406.08747	OK	StreamBench: Towards Benchmarking Continuous Improvement of Language Agents	Wu, Cheng-Kuang
+wu2025humanmemory	2504.15965	OK	From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs	Wu, Yaxiong
+wu2025interpersonal	2503.05150	OK	Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History	Wu, Bowen
+wu2025longmemeval	2410.10813	OK	LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory	Wu, Di
+wu2025sgmem	2509.21212	OK	SGMem: Sentence Graph Memory for Long-Term Conversational Agents	Wu, Yaxiong
+xi2023rise	2309.07864	OK	The Rise and Potential of Large Language Model Based Agents: A Survey	Xi, Zhiheng
+xia2025experience	2511.07800	OK	From Experience to Strategy: Empowering LLM Agents with Trainable Graph Memory	Xia, Siyu
+xiao2024streamingllm	2309.17453	OK	Efficient Streaming Language Models with Attention Sinks	Xiao, Guangxuan
+xiao2025toolmem	2510.06664	OK	ToolMem: Enhancing Multimodal Agents with Learnable Tool Capability Memory	Xiao, Yunzhong
+xiong2025experience	2505.16067	OK	How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior	Xiong, Zidi
+xu2022goldfish	2107.07567	OK	Beyond Goldfish Memory: Long-Term Open-Domain Conversation	Xu, Jing
+xu2025amem	2502.12110	OK	A-MEM: Agentic Memory for LLM Agents	Xu, Wujiang
+xu2026mcfa	2603.15125	OK	From Storage to Steering: Memory Control Flow Attacks on LLM Agents	Xu, Zhenlin
+xu2026personalized	2602.22680	OK	Toward Personalized LLM-Powered Agents: Foundations, Evaluation, and Future Directions	Xu, Yue
+yadav2025findingdory	2506.15635	OK	FindingDory: A Benchmark to Evaluate Memory in Embodied Agents	Yadav, Karmesh
+yan2025gam	2511.18423	OK	General Agentic Memory Via Deep Research	Yan, B. Y.
+yan2025memoryr1	2508.19828	OK	Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning	Yan, Sikuan
+yang2024memory3	2407.01178	OK	$\text{Memory}^3$: Language Modeling with Explicit Memory	Yang, Hongkang
+yang2026graphmemsurvey	2602.05665	OK	Graph-based Agent Memory: Taxonomy, Techniques, and Applications	Yang, Chang
+yang2026static	2601.04463	OK	Beyond Static Summarization: Proactive Memory Extraction for LLM Agents	Yang, Chengyuan
+yang2026zombie	2602.15654	OK	Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections	Yang, Xianglin
+yao2022react	2210.03629	OK	ReAct: Synergizing Reasoning and Acting in Language Models	Yao, Shunyu
+yao2023retroformer	2308.02151	OK	Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization	Yao, Weiran
+ye2025agentfold	2510.24699	OK	AgentFold: Long-Horizon Web Agents with Proactive Context Management	Ye, Rui
+yeo2025worldmm	2512.02425	OK	WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning	Yeo, Woongyeong
+yu2023finmem	2311.13743	OK	FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design	Yu, Yangyang
+yu2025memagent	2507.02259	OK	MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent	Yu, Hongli
+yu2026agemem	2601.01885	OK	Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents	Yu, Yi
+yuan2025memsearcher	2511.02805	OK	MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning	Yuan, Qianhao
+yuen2025intrinsic	2508.08997	OK	Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory	Yuen, Sizhe
+zhang2023h2o	2306.14048	OK	H$_2$O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models	Zhang, Zhenyu
+zhang2024memsim	2409.20163	OK	MemSim: A Bayesian Simulator for Evaluating Memory of LLM-based Personal Assistants	Zhang, Zeyu
+zhang2024memsurvey	2404.13501	OK	A Survey on the Memory Mechanism of Large Language Model based Agents	Zhang, Zeyu
+zhang2025agentic	2510.04618	OK	Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models	Zhang, Qizheng
+zhang2025explicit	2508.13250	OK	Explicit v.s. Implicit Memory: Exploring Multi-hop Complex Reasoning Over Personalized Information	Zhang, Zeyu
+zhang2025gmemory	2506.07398	OK	G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems	Zhang, Guibin
+zhang2025learn	2508.16629	OK	Learn to Memorize: Optimizing LLM-based Agents with Adaptive Memory Framework	Zhang, Zeyu
+zhang2025memact	2510.12635	OK	Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks	Zhang, Yuxiang
+zhang2025memevolve	2512.18746	OK	MemEvolve: Meta-Evolution of Agent Memory Systems	Zhang, Guibin
+zhang2025memgen	2509.24704	OK	MemGen: Weaving Generative Latent Memory for Self-Evolving Agents	Zhang, Guibin
+zhang2026amac	2603.04549	OK	Adaptive Memory Admission Control for LLM Agents	Zhang, Guilin
+zhang2026componentrepla	2609.39989	OK	Component Replacement in LLM Agents: A Critical Scoping Review of Task Benefit and Attribution	Zhang, Shuyang
+zhang2026faulty	2605.12978	OK	Useful Memories Become Faulty When Continuously Updated by LLMs	Zhang, Dylan
+zhang2026memrl	2601.03192	OK	MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory	Zhang, Shengtao
+zhang2026memskill	2602.02474	OK	MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents	Zhang, Haozhen
+zhao2024expel	2308.10144	OK	ExpeL: LLM Agents Are Experiential Learners	Zhao, Andrew
+zhao2025llms	2502.09597	OK	Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs	Zhao, Siyan
+zhao2026amabench	2602.22769	OK	AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications	Zhao, Yujie
+zheng2024synapse	2306.07863	OK	Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control	Zheng, Longtao
+zheng2025lifelongagentb	2505.11942	OK	LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners	Zheng, Junhao
+zheng2025skillweaver	2504.07079	OK	SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills	Zheng, Boyuan
+zhong2024memorybank	2305.10250	OK	MemoryBank: Enhancing Large Language Models with Long-Term Memory	Zhong, Wanjun
+zhou2023recurrentgpt	2305.13304	OK	RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text	Zhou, Wangchunshu
+zhou2025mem1	2506.15841	OK	MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents	Zhou, Zijian
+zhou2025memento	2508.16153	OK	Memento: Fine-tuning LLM Agents without Fine-tuning LLMs	Zhou, Huichi
+zhou2026externalization	2604.08224	OK	Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering	Zhou, Chenyu
+zhu2023gitm	2305.17144	OK	Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory	Zhu, Xizhou
+zou2024poisonedrag	2402.07867	OK	PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models	Zou, Wei
+zou2026etamp	2604.02623	OK	Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents	Zou, Wei

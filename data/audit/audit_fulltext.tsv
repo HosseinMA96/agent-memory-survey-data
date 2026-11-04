@@ -1,0 +1,18 @@
+# Full-text audit extraction for Table VI (2026-11-03). Source: latest arXiv PDF of each paper. in_abstract: Y/N/partial
+system	arxiv	metric	metric_in_abstract	comparators	comparators_in_abstract	backbone	backbone_in_abstract	full_context_baseline	variance_headline	evidence_location
+Mem0	2504.19413	J; F1; BLEU-1	partial(J)	OpenAI, full context, RAG(k,chunk), A-Mem, LangMem, Zep, MemGPT	partial	GPT-4o-mini	N	Y (72.90 J vs Mem0 66.88)	Y (±1 SD, 10 judge runs)	Sec.4; Table 1-2
+Zep	2501.13956	Accuracy, GPT-4o judge	Y	MemGPT (DMR); full context (LongMemEval_S)	partial	gpt-4-turbo; gpt-4o-mini; gpt-4o	N	Y (DMR 94.4 vs 94.8; LME 55.4->63.8, 60.2->71.2)	N	Tables 1-2
+MemoryOS	2506.06326	F1; BLEU-1	Y	TiM, MemoryBank, MemGPT, A-Mem	N	GPT-4o-mini; Qwen2.5-3B	partial	N	N	Table 2
+LightMem	2510.18866	Accuracy (GPT-4o-mini judge); tokens; calls; runtime	Y	FullText, NaiveRAG, LangMem, A-MEM, MemoryOS, Mem0	N	GPT-4o-mini; Qwen3-30B-A3B; GLM-4.6	partial	Y (LoCoMo 71.83/74.87 vs 72.99/72.60)	N	Tables 2-3
+Memory-R1	2508.19828	F1; BLEU-1; J	N	LoCoMo-RAG, A-Mem, Mem0, MemoryOS, Memory-SFT	N	LLaMA-3.1-8B; Qwen-2.5 3B/7B/14B	partial(sizes)	N	N	Table 1 (test split 1307 Qs)
+MEM1	2506.15841	EM; F1; peak tokens; time	N	Qwen2.5-14B-Instruct, Search-R1, DeepResearcher, A-Mem	partial	Qwen2.5-7B base	partial	N	partial (efficiency only)	Sec.5; Table 1
+HippoRAG	2405.14831	Recall@2/5; EM/F1	N	ColBERTv2, Contriever, RAPTOR, Propositionizer, IRCoT	partial	GPT-3.5-turbo; Llama-3.1	N	n/a	N	Sec.3-4
+A-MEM	2502.12110	F1; BLEU-1; ROUGE; METEOR; SBERT etc.	N	LoCoMo, ReadAgent, MemoryBank, MemGPT	N	GPT-4o-mini, GPT-4o, Qwen2.5-1.5B/3B, Llama3.2-1B/3B	partial	N	N	Table 1
+AWM	2409.07429	Success rate; step SR	Y	Published web agents	N	gpt-4-0613; gpt-3.5-turbo	N	n/a	N	Tables 1-3
+ReadAgent	2402.09727	Accuracy; LLM raters; ROUGE	N	Retrieval; full context	Y	PaLM 2-L	N	Y	Y (SD)	Sec.4
+O-Mem	2511.13593	F1; BLEU-1; LLM judge	N	LangMem, Mem0, MemoryOS, A-Mem, Zep, OpenAI, MemOS	partial	GPT-4.1; GPT-4o-mini	N	N	N (single run, stated)	Table 2; Sec. on reproducibility
+DynamicCheatsheet	2504.07952	Accuracy	Y	Baseline prompting; DC-empty; full-history appending	partial	Claude 3.5 Sonnet; GPT-4o; others	Y	Y (FH)	N	Sec.3-4
+ACE	2510.04618	TGC/SGC; accuracy	N	ICL, GEPA, Dynamic Cheatsheet, ReAct	N	DeepSeek-V3.1	partial	N	N	Sec.4
+Memento	2508.16153	Pass@3; F1; PM	Y	Training-based SOTA	Y	GPT-4.1 planner; o3/o4-mini executor	N	N	N	Sec.4; App.
+Context-Folding	2510.11967	Pass@1	N	ReAct (keeps all context, 327K); summarization	Y	Seed-OSS-36B-Instruct (RL)	N	Y	N	Sec.4
+ACON	2510.00615	Accuracy; peak tokens	Y	Compression baselines; full history	N	gpt-4.1; distilled Qwen3-14B/8B	partial	Y	N	Sec.4
