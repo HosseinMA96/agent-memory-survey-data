@@ -37,8 +37,8 @@ metadata changes over time. Use the archived file to reproduce the paper's numbe
 
 ## Coding notes and limitations
 
-- Each sheet was coded by a single coder with help from an AI assistant. No second coder was
-  available. Each row of the audit sheets names the table or section of the source paper it was
+- Each sheet was coded by one coder with help from an AI assistant, and a second researcher then
+  checked all codings against the source papers (a verification, not blind double-coding). Each row of the audit sheets names the table or section of the source paper it was
   taken from, so the coding can be checked.
 - The audit records what each paper reports. No experiment was re-run.
 - In `dropped_sample.csv`, `ai_prescreen` holds the labels used in the paper; the columns
