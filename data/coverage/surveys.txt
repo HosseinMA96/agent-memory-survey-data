@@ -1,0 +1,17 @@
+# The 15 competing surveys used in the coverage check (run 2026-11-01; shared/tools/coverage_gap.py).
+# Columns: arXiv ID, bib key, first author, title. Reference source per survey: see log.txt.
+2404.13501	zhang2024memsurvey	Zeyu Zhang	A Survey on the Memory Mechanism of Large Language Model based Agents
+2505.00675	du2025rethinking	Yiming Du	Rethinking Memory in LLM based Agents: Representations, Operations, and Emerging Topics
+2504.15965	wu2025humanmemory	Yaxiong Wu	From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs
+2512.13564	hu2025memoryage	Yuyang Hu	Memory in the Age of AI Agents
+2603.07670	du2026autonomous	Pengfei Du	Memory for Autonomous LLM Agents:Mechanisms, Evaluation, and Emerging Frontiers
+2606.30306	alwayson2026survey	Tianyu Ding	Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents
+2604.16548	memsec2026survey	Zehao Lin	A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle
+2504.02441	shan2025cogmem	Lianlei Shan	Cognitive Memory in Large Language Models
+2602.05665	yang2026graphmemsurvey	Chang Yang	Graph-based Agent Memory: Taxonomy, Techniques, and Applications
+2602.06052	huang2026secondhalf	Wei-Chieh Huang	A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents
+2602.19320	jiang2026anatomy	Dongming Jiang	Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations
+2605.06716	luo2026storage	Jinghao Luo	From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms
+2604.08224	zhou2026externalization	Chenyu Zhou	Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering
+2610.21165	gou2026long	Chaogui Gou	From Long Context to Selective Memory:A Survey of Memory-Centric Compression for Large Language Models
+2512.16301	jiang2025adaptation	Pengcheng Jiang	Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills

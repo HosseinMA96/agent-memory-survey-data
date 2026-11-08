@@ -1,0 +1,21 @@
+# Command (run 2026-11-01 20:45 UTC, from the repository root; output of stderr, retries removed):
+# python3 shared/tools/coverage_gap.py 02_memory_for_agentic_ai 02_memory_for_agentic_ai/literature/coverage/gaps.tsv \
+#   2404.13501 2505.00675 2504.15965 2512.13564 2603.07670 2606.30306 2604.16548 2504.02441 \
+#   2602.05665 2602.06052 2602.19320 2605.06716 2604.08224 2610.21165 2512.16301
+# "not cited by us" refers to the bibliography as of 2026-11-01, before the coverage expansion.
+2404.13501: 231 refs (S2)
+2505.00675: 122 arXiv refs (HTML fallback)
+2504.15965: 150 refs (S2)
+2512.13564: 215 arXiv refs (HTML fallback)
+2603.07670: 66 refs (S2)
+2606.30306: 52 arXiv refs (HTML fallback)
+2604.16548: 95 refs (S2)
+2504.02441: 88 refs (S2)
+2602.05665: 201 refs (S2)
+2602.06052: 267 arXiv refs (HTML fallback)
+2602.19320: 84 refs (S2)
+2605.06716: 217 refs (S2)
+2604.08224: 122 arXiv refs (HTML fallback)
+2610.21165: 124 refs (S2)
+2512.16301: 231 arXiv refs (HTML fallback)
+unique works cited by competitors: 1580; not cited by us: 1440; cited by >=2 competitors and missing: 251

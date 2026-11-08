@@ -19,10 +19,13 @@ sheets behind the results audit, and the scripts that recompute the bibliometric
 | `data/audit/audit_fulltext.tsv` | Full-text extraction for the 16 audited systems: metric, comparators, backbone, full-context baseline, variance, and whether each item appears in the abstract | Table 6 |
 | `data/audit/locomo_crosspaper.tsv` | Overall LoCoMo scores for the same systems as reported in different papers, with the source table | Table 7, Fig. 4 |
 | `data/audit/control_locus_coding.tsv` | Locus coding (H/M/L/A) of the 38 example systems with arXiv IDs | §6 |
+| `data/coverage/surveys.txt` | The 15 competing surveys used in the coverage check (arXiv ID, first author, title) | §2.4 |
+| `data/coverage/gaps.tsv`, `log.txt` | Works cited by those surveys and not by the paper's bibliography of Nov. 1, 2026, with the number of surveys citing each (1,580 distinct works; 251 cited by two or more), and the run log | §2.4 |
 | `data/checks/arxiv_id_check.tsv` | Title and first-author check of every arXiv reference | §2.3 |
 | `data/checks/bibliometrics_output.txt` | Output of `bibliometrics.py` | Table 2, §6 |
 | `scripts/harvest.py` | Reproducible arXiv harvest (`python3 scripts/harvest.py data/harvest/harvest_config.json <out_dir>`) | §2.1 |
 | `scripts/bibliometrics.py` | Recomputes the corpus counts, Table 2 (Wilson intervals, Fisher tests, Holm correction) and the control-locus indicators; can redraw the samples | §2, §6, Appendix A |
+| `scripts/coverage_gap.py` | Rebuilds the coverage-gap list from the surveys' reference lists (Semantic Scholar, or arXiv HTML when Semantic Scholar has none); usage in `data/coverage/log.txt` | §2.4 |
 | `scripts/verify_arxiv_ids.py` | Checks arXiv IDs in a BibTeX file against arxiv.org | §2.3 |
 
 ## Reproduce the numbers
